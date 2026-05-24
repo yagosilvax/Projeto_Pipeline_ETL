@@ -1,0 +1,12 @@
+# Ignorar o ambiente virtual
+venv/
+
+# Ignorar os dados brutos e pesados
+datasets/
+*.csv
+*.zip
+
+# Ignorar pastas ocultas do VS Code e do Python
+.vscode/
+__pycache__/
+*.pyc
