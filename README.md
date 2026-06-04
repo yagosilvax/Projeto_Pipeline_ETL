@@ -27,7 +27,10 @@ Na Etapa final do projeto, estruturei o modelo Star Squema( fatos e dimensões) 
 - Lead time médio,
 - Formatação condicional
 - Variação MoM
+- Formatação condicional das taxas baseado no ano anterior
 - Criação de tabela de calendário
+![Modelagem](Dashboard/Imagens/Modelagem.png)
+
 
 A partir dessas medidas, pude analisar o comportamento dos pedidos, como o faturamento total e o ticket médio por categoria, taxa de cancelamento de cada categoria, avaliei se existia correlação entre a taxa de atraso dos pedidos e o cancelamento, além de verificar o lead time médio por cada categoria.
 
