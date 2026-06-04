@@ -2,9 +2,9 @@
 
 Neste projeto, apliquei conceitos técnicos de Engenharia e Análise de Dados para criar um pipeline completo. **O objetivo foi aprimorar o pensamento analítico e responder a perguntas de negócio estratégicas, transformando dados brutos em um dashboard de tomada de decisão.**
 
-![Tela 1](Projeto_Pipeline_ETL\Dashboard\Imagens\Tela_1.png)
+![Tela 1](Projeto_Pipeline_ETL/Dashboard/Imagens/Tela_1.png)
 
-![Tela 2](Projeto_Pipeline_ETL\Dashboard\Imagens\Tela_2.png)
+![Tela 2](Projeto_Pipeline_ETL/Dashboard/Imagens/Tela_2.png)
 
 
 ### 1° Etapa do projeto- Ingestão e tratamento dos dados.
