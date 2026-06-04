@@ -5,6 +5,7 @@ venv/
 datasets/
 *.csv
 *.zip
+*.png
 
 # Ignorar pastas ocultas do VS Code e do Python
 .vscode/
